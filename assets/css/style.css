@@ -21,7 +21,12 @@ table {
 @media screen and (max-width: 640px){
     table {
         font-size: 15px;
-        width: 300px;
+        width: 340px;
+    }
+
+    .container {
+        max-width: 340px !important;
+        margin-bottom: 50px;
     }
 }
 
